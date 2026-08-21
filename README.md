@@ -1,9 +1,9 @@
-﻿<div align="center">
+<div align="center">
   <h1>Hi, I'm Divyansh Sharma 👋</h1>
   <p><b>Computer Science undergraduate building AI-powered, privacy-conscious, and full-stack systems that solve real-world problems.</b></p>
   <p>
-    <a href="mailto:divyanshok97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-informational?style=flat&logo=gmail&logoColor=white&color=0ea5e9" alt="Email" /></a>
-    <a href="https://linkedin.com/in/divyanshsharma"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=0ea5e9" alt="LinkedIn" /></a>
+    <a href="mailto:divyanshsharma9704@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-informational?style=flat&logo=gmail&logoColor=white&color=0ea5e9" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/divyansh-sharma-a2b4a9237"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=0ea5e9" alt="LinkedIn" /></a>
   </p>
 </div>
 
