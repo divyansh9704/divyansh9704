@@ -26,6 +26,12 @@ Beyond coding, I serve as the **Student Coordinator for the KNUTH Programming Hu
 
 ## 🚀 Featured Engineering Projects
 
+### [Engineering Intelligence Platform](https://github.com/divyansh9704/engineering-intelligence-platform)
+> **Automated PR Blast Radius & AST Code Graph Analysis Platform**
+* **The Problem:** Developers make PRs without fully understanding the cascading downstream effects on distributed architectures, leading to regressions and blind spots.
+* **What I Built:** A production-grade multi-hop architecture mapping tool that analyzes code blast radius using Abstract Syntax Trees (Tree-sitter) and vector embeddings (pgvector).
+* **Engineering:** Built with FastAPI, Next.js, and PostgreSQL. Features recursive CTEs for graph traversal, hybrid RAG (semantic + AST), automated PR impact scoring, and strict hard-tenant data isolation.
+
 ### [Med-secure](https://github.com/divyansh9704/Med-secure)
 > **Steganography-Based Secure Medical Communication Platform**
 * **The Problem:** Medical data transmission requires absolute privacy against unauthorized interception.
