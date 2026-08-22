@@ -38,7 +38,7 @@ Beyond coding, I serve as the **Student Coordinator for the KNUTH Programming Hu
 * **What I Built:** A dual-layer secure messaging system where sensitive health data is encrypted via Fernet, then concealed inside PNG/WAV files using LSB steganography before transmission.
 * **Engineering:** JWT-based RBAC authentication, robust Express/MongoDB backend, and a modern React client.
 
-### Nexa *(Private / In Development)*
+### [Nexa](https://drive.google.com/file/d/19bnVl2_fzerzsZqoiiPKd4p9Ats7w0oj/view?usp=sharing) *(Private / View Architecture Doc)*
 > **AI-Powered Privacy-First Conversational Search Assistant**
 * **The Problem:** Commercial AI search tools compromise user data and often hallucinate without grounding.
 * **What I Built:** A local, privacy-first conversational search engine utilizing a 4-tier RAG architecture.
