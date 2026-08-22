@@ -44,7 +44,7 @@ Beyond coding, I serve as the **Student Coordinator for the KNUTH Programming Hu
 * **What I Built:** A local, privacy-first conversational search engine utilizing a 4-tier RAG architecture.
 * **Engineering:** Integrated Ollama with SearXNG for web grounding, utilized Server-Sent Events (SSE) for real-time token streaming, and engineered dynamic widgets for live data (stocks/weather/math) on a Next.js/SQLite stack.
 
-### NexMedFL *(Private / In Development)*
+### [NexMedFL](https://drive.google.com/file/d/1dG54KZxob0CVdNGUuOcLXCmeQ_ayfsHc/view?usp=sharing) *(Private / View Architecture Doc)*
 > **Privacy-Preserving Federated Learning Framework**
 * **The Problem:** Training predictive medical AI models usually requires centralizing highly sensitive patient data.
 * **What I Built:** A decentralized framework that trains disease prediction models across distributed nodes without sharing raw data.
