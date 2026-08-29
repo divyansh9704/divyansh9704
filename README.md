@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=divyansh9704&fontSize=70&fontAlignY=35" width="100%" />
+</div>
+
+<div align="center">
   <h1>Hi, I'm Divyansh Sharma 👋</h1>
   <p><b>Computer Science undergraduate building AI-powered, privacy-conscious, and full-stack systems that solve real-world problems.</b></p>
   <p>
