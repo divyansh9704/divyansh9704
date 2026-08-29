@@ -38,13 +38,13 @@ Beyond coding, I serve as the **Student Coordinator for the KNUTH Programming Hu
 * **What I Built:** A dual-layer secure messaging system where sensitive health data is encrypted via Fernet, then concealed inside PNG/WAV files using LSB steganography before transmission.
 * **Engineering:** JWT-based RBAC authentication, robust Express/MongoDB backend, and a modern React client.
 
-### [Nexa](https://drive.google.com/file/d/19bnVl2_fzerzsZqoiiPKd4p9Ats7w0oj/view?usp=sharing) *(Private / View Architecture Doc)*
+### [Nexa](https://drive.google.com/file/d/11fg998hzyO2F01aABHVGFRf15GPU_Tjq/view?usp=sharing) *(Private / View Architecture Doc)*
 > **AI-Powered Privacy-First Conversational Search Assistant**
 * **The Problem:** Commercial AI search tools compromise user data and often hallucinate without grounding.
 * **What I Built:** A local, privacy-first conversational search engine utilizing a 4-tier RAG architecture.
 * **Engineering:** Integrated Ollama with SearXNG for web grounding, utilized Server-Sent Events (SSE) for real-time token streaming, and engineered dynamic widgets for live data (stocks/weather/math) on a Next.js/SQLite stack.
 
-### [NexMedFL](https://drive.google.com/file/d/1dG54KZxob0CVdNGUuOcLXCmeQ_ayfsHc/view?usp=sharing) *(Private / View Architecture Doc)*
+### [NexMedFL](https://drive.google.com/file/d/1wdgw-vg604Chxl7aaPY0cls-VJP8mtVD/view?usp=sharing) *(Private / View Architecture Doc)*
 > **Privacy-Preserving Federated Learning Framework**
 * **The Problem:** Training predictive medical AI models usually requires centralizing highly sensitive patient data.
 * **What I Built:** A decentralized framework that trains disease prediction models across distributed nodes without sharing raw data.
